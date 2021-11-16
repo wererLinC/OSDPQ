@@ -14,9 +14,11 @@ download dataSet: 链接：https://pan.baidu.com/s/1q66Xh-sDxJR5eVGUDib6ng
 
 3. Test
 run OSDPQ.ipynb
+
 3. Result
+
 ![image](https://user-images.githubusercontent.com/38948350/141886007-f5a829fb-e4a9-484c-8bc1-be1fd8615bae.png)
 
-Contacts
+4. Contacts
 weilin  chen: weierLinC@163.com
 shi  zhang: shi@fjnu.edu.cn
