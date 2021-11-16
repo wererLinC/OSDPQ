@@ -17,7 +17,7 @@ run OSDPQ.ipynb
 
 3. Result
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/38948350/141887605-e8181408-4565-45d0-addb-eda6cf319645.png)
 
 ## Contacts
 weilin  chen: weierLinC@163.com
